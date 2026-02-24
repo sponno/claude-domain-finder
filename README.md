@@ -47,11 +47,11 @@ Then start a new Claude Code session and ask it to find you a domain name.
 
 Just describe what you need:
 
-> "Find me a domain for a secure PDF sharing platform"
+> "Find me a domain for an online pet grooming marketplace"
 
-> "I need a name for a surf lifestyle brand"
+> "I need a name for a fitness tracking app"
 
-> "Check if duckdoc.com is available, and try .io and .co too"
+> "Check if brightloop.com is available, and try .io and .co too"
 
 ## License
 
